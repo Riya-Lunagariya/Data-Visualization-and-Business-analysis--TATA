@@ -19,7 +19,5 @@ Provided analysis and visuals for online retail store's CEO and CMO to aid in me
 Task 4: Communicating insights and analysis
 Presenting your finding to the company. 
 
+![Screenshot (197)](https://user-images.githubusercontent.com/81770671/230679955-872baeb5-49d6-4665-a801-9e6eea3f375d.png)
 ![TATA logo](https://user-images.githubusercontent.com/81770671/230679627-e0209739-7155-4fc2-bc59-5519aa698641.png)
-![Screenshot (197)](https://user-images.githubusercontent.com/81770671/230679814-453b1b1f-7603-4dcb-b7d4-7d53399e3b12.png)
-
-
