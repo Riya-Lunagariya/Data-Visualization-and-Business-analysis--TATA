@@ -20,4 +20,6 @@ Task 4: Communicating insights and analysis
 Presenting your finding to the company. 
 
 ![TATA logo](https://user-images.githubusercontent.com/81770671/230679627-e0209739-7155-4fc2-bc59-5519aa698641.png)
+![Screenshot (197)](https://user-images.githubusercontent.com/81770671/230679814-453b1b1f-7603-4dcb-b7d4-7d53399e3b12.png)
+
 
