@@ -13,8 +13,12 @@ Consulted for an online retail store to provide valuable insights to the CEO and
 Task 2: Choosing the right visuals
 Provided visualizations for online retail store's CEO and CMO to analyze key metrics and identify growth opportunities. Gathered requirements and recommended the most effective visualizations to convey insights in a simple and accurate manner. Ensured correct representation of data to avoid incorrect messaging and decision-making. Crucial exercise to aid senior management in understanding business performance and identifying areas of strength and opportunity for revenue growth.
 
+![image](https://user-images.githubusercontent.com/81770671/231654110-df0d8bca-7de5-4374-afd7-5a38fb7954af.png)
+
 Task 3: Creating the effective visuals
 Provided analysis and visuals for online retail store's CEO and CMO to aid in meaningful decision-making for expansion strategy. Analyzed revenue generation trends and factors affecting the business across different categories. Ensured data quality by cleaning bad data. Created effective visuals using Tableau to assist executives in decision-making. Cleaning the data before it is ready to analyse. Results crucial for successful expansion strategy. 
+
+![image](https://user-images.githubusercontent.com/81770671/231654027-db71e506-4de1-48fb-a99b-198fc7c423ed.png)
 
 Task 4: Communicating insights and analysis
 Presenting your finding to the company. 
